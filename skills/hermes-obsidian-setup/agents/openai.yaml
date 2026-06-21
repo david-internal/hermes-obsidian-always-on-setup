@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hermes Obsidian Setup"
+  short_description: "Guided VPS setup for Hermes and Obsidian"
+  default_prompt: "Use $hermes-obsidian-setup to guide me through setting up Hermes Agent with an Obsidian vault on a VPS."
